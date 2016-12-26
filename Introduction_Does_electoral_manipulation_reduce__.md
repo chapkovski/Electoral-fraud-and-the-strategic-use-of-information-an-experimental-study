@@ -6,6 +6,6 @@ It cannot be the universal explanation though, since the voter ID strategy is ra
 Since it is very little known how the expectations of electoral fraud affect intentions of voters we suggest to state two (almost identical) research questions and to provide the answers by using either agent-based modelling and lab experiments:
 
 Two possible research questions (for further discussion):
-	Can the extra publicly available information of the electoral fraud decrease the chance of the opposition to win?
+*	Can the extra publicly available information of the electoral fraud decrease the chance of the opposition to win?
 OR (which is the same but more general)
 ●	How the additional information about the forthcoming (expected) electoral fraud affects turnout of voters for both governing party and opposition?
