@@ -8,4 +8,4 @@ Since it is very little known how the expectations of electoral fraud affect int
 Two possible research questions (for further discussion):
 *	Can the extra publicly available information of the electoral fraud decrease the chance of the opposition to win?
 OR (which is the same but more general)
-●	How the additional information about the forthcoming (expected) electoral fraud affects turnout of voters for both governing party and opposition?
+*	How the additional information about the forthcoming (expected) electoral fraud affects turnout of voters for both governing party and opposition?
