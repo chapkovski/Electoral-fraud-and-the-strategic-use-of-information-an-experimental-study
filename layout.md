@@ -1,4 +1,5 @@
 abstract.md
 Introduction_Does_electoral_manipulation_reduce__.md
 Literature_Review_The_role_of__.md
+Formal_model__.md
 Experimental_design_Following_previous_experimental__.md
